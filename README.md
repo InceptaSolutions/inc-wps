@@ -1,2 +1,0 @@
-# inc-wps
-WPS Repository
